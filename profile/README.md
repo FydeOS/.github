@@ -1,7 +1,4 @@
-## About FydeOS
-FydeOS is made possible by the Chromium Authors and the gentle souls of Fyde Innovations.
-
-<br>
+![Open Source at FydeOS](../images/open-source-at-fydeos.png)
 
 ## Join FydeOS
 https://fydeos.com/career
